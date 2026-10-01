@@ -35,10 +35,6 @@ VoxCalc 2.0 is a fresh vanilla HTML/CSS/JavaScript implementation of a voice-ena
 
 HTML5 • CSS3 • Vanilla JavaScript • Web Speech API • LocalStorage • Browser Clipboard API
 
-## Portfolio note
-
-This repository is a fresh implementation. If the original calculator concept was developed as a collaborative B.Tech project, describe the collaboration and your actual contribution accurately. Do not claim another contributor's work as independently authored.
-
 ## Suggested resume description
 
 **VoxCalc 2.0 — Voice Scientific Calculator**
